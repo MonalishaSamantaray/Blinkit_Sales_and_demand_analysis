@@ -1,0 +1,9 @@
+Following python libraries are being used
+SQLite         :3.53.4
+python         :3.11.17
+Pandas         :3.0.6
+NumPy          :2.4.6
+Matplotlib     :3.11.2
+Seaborn        :0.13.2
+Scikit-learn   :1.9.1
+Streamlit      :1.66.0
